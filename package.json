@@ -1,0 +1,24 @@
+{
+    "name": "serverless-api-gateway-xray",
+    "version": "1.0.0",
+    "description": "Serverless plugin to enable X-Ray on API Gateway",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/carlosrodriguesjunior/serverless-api-gateway-xray"
+    },
+    "keywords": [
+      "serverless",
+      "api-gateway",
+      "apigateway",
+      "plugin",
+      "xray",
+      "X-Ray",
+      "aws"
+    ],
+    "author": "Carlos Rodrigues",
+    "license": "MIT",
+    "dependencies": {
+      "lodash": "^4.17.5"
+    }
+  }
