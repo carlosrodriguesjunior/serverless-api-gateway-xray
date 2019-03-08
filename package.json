@@ -1,6 +1,6 @@
 {
     "name": "serverless-api-gateway-xray",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Serverless plugin to enable X-Ray on API Gateway",
     "main": "index.js",
     "repository": {
